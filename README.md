@@ -5,7 +5,7 @@ This project is a meme generator that fetches random memes from an API and allow
 ## How to Run
 
 1. Clone the repository
-2. Run `meme-generator`
+2. Run `cd meme-generator`
 3. Run `npm install`
 4. Run `npm run dev`
 
